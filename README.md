@@ -15,10 +15,11 @@
 
 # Stack
 - Language = TypeScript
-- FrameWork = SolidJs nebo React.js
-- Css = styles-components
-- Hosting = cloudflare pages
-- Database = quick.db
+- Frontend = SolidJS
+- Backend  = Express
+- Styles   = styles-components
+- Hosting  = cloudflare pages
+- Database = sqlite
 
 # Roadmap
 [ ] - API endpoints
